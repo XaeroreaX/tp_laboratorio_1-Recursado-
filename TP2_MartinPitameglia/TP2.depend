@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1491923215 source:d:\xaero\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492025805 source:c:\documents and settings\atilio\escritorio\tp2\main.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492025736 c:\documents and settings\atilio\escritorio\tp2\fspersona.h
+
+1492022931 source:c:\documents and settings\atilio\escritorio\tp2\fspersona.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492212406 source:c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp2\fspersona.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1492209357 c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp2\fspersona.h
+
+1492212524 source:c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp2\main.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492527354 source:d:\tp_laboratorio_1-master\tp2\main.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492524282 d:\tp_laboratorio_1-master\tp2\fspersona.h
+
+1492527280 source:d:\tp_laboratorio_1-master\tp2\fspersona.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1492513108 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp2\fspersona.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1492513108 c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp2\fspersona.h
+
+1499074546 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2_martinpitameglia\fspersona.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1499074546 c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2_martinpitameglia\fspersona.h
+
+1499074546 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2_martinpitameglia\main.c
+	"FSPersona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
