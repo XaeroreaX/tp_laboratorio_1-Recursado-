@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1490841869 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490843116 c:\users\jmpit\downloads\proyectos\projectos del cod\tp1\tp_1_cascara\funciones.h
+
+1490843116 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491145560 source:c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491145550 c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp1\tp_1_cascara\funciones.h
+
+1491155395 source:c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491226258 source:d:\xaero\programacio-i-master\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491226338 d:\xaero\programacio-i-master\tp_1_cascara\funciones.h
+
+1491226967 source:d:\xaero\programacio-i-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491218916 source:c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491218916 c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp_1_cascara\funciones.h
+
+1491257640 source:c:\users\jmpit\downloads\proyectos\projectos del cod\programacio-i-master\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491259173 source:d:\xaero\tp_laboratorio_1-master\tp_1_martinpitameglia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491259173 d:\xaero\tp_laboratorio_1-master\tp_1_martinpitameglia\funciones.h
+
+1491313346 source:d:\xaero\tp_laboratorio_1-master\tp_1_martinpitameglia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1499074546 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_martinpitameglia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1499074546 c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_martinpitameglia\funciones.h
+
+1499074546 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_martinpitameglia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
