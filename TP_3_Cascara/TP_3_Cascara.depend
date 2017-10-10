@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1496156108 source:c:\users\alumno\downloads\tp_3_cascara\funciones.c
+
+1496156061 source:c:\users\alumno\downloads\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496156061 c:\users\alumno\downloads\tp_3_cascara\funciones.h
+
+1496363019 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496371520 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496371520 c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_3_cascara\funciones.h
+
+1497866350 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1497901959 c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_3_cascara\funciones.h
+	"ArrayList.h"
+
+1497901766 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1497900986 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_3_cascara\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497866350 c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_3_cascara\arraylist.h
+
+1498563468 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498563468 c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_4\arraylist.h
+
+1498609718 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1498608560 c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_4\funciones.h
+	"ArrayList.h"
+
+1498610201 source:c:\users\jmpit\downloads\proyectos\projectos del cod\tp_laboratorio_1-master\tp_4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1499278637 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499074546 c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_4\arraylist.h
+
+1499958687 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1500039062 c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_4\funciones.h
+	"ArrayList.h"
+
+1500038555 source:c:\users\public\cv\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1498850960 source:c:\users\alumno\downloads\tp_laboratorio_1-master\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498850960 c:\users\alumno\downloads\tp_laboratorio_1-master\tp_4\arraylist.h
+
+1499084180 source:c:\users\alumno\downloads\tp_laboratorio_1-master\tp_4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1499084223 c:\users\alumno\downloads\tp_laboratorio_1-master\tp_4\funciones.h
+	"ArrayList.h"
+
+1498850960 source:c:\users\alumno\downloads\tp_laboratorio_1-master\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1507637424 source:c:\users\alumno\desktop\tp_3_cascara\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1507637424 c:\users\alumno\desktop\tp_3_cascara\arraylist.h
+
+1507637424 source:c:\users\alumno\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1507637424 c:\users\alumno\desktop\tp_3_cascara\funciones.h
+	"ArrayList.h"
+
+1507637424 source:c:\users\alumno\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
